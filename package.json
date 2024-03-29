@@ -1,0 +1,39 @@
+{
+  "name": "diamond-dust-creator",
+  "version": "1.0.0",
+  "description": "Offers a cloud-based solution for data storage and management, ensuring scalability, security, and accessibility.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/diamond-dust-creator"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "topaz-light-bender": "1.0.0",
+    "garnet-flame-master": "1.0.0",
+    "async": "1.0.0",
+    "body-parser": "1.0.0",
+    "babel-core": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "chalk": "1.0.0",
+    "axios": "1.0.0",
+    "validator": "1.0.0",
+    "ejs": "1.0.0",
+    "eslint": "1.0.0",
+    "mocha": "1.0.0",
+    "dotenv": "1.0.0",
+    "request": "1.0.0",
+    "lodash": "1.0.0",
+    "passport": "1.0.0",
+    "cheerio": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "redux": "1.0.0",
+    "helmet": "1.0.0"
+  }
+}
